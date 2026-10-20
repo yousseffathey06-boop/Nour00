@@ -1,0 +1,1 @@
+Static version of Nour Birthday Website for GitHub Pages. Upload index.html, .nojekyll, and the entire static folder to the root of your GitHub repository. Then enable Settings > Pages > Deploy from a branch > main > /(root). All website contents and photos will be public.
